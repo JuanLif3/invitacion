@@ -7,7 +7,7 @@ const validUsers = [
   { usuario: "JyV", contraseña: "password6", pagina: "JyV.html" },
   { usuario: "VyV", contraseña: "password7", pagina: "VyV.html" },
   { usuario: "moises", contraseña: "password8", pagina: "moises.html" },
-  { usuario: "karla", contraseña: "password9", pagina: "karla.html" },
+  { usuario: "sae", contraseña: "bluey", pagina: "karla.html" },
   { usuario: "anais", contraseña: "password10", pagina: "anais.html" },
   { usuario: "marc", contraseña: "password10", pagina: "marc.html" },
   { usuario: "pedro", contraseña: "password11", pagina: "pedro.html" }
