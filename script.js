@@ -1,16 +1,16 @@
 const validUsers = [
-  { usuario: "vicente", contraseña: "password1", pagina: "vicente.html" },
-  { usuario: "camilo", contraseña: "password2", pagina: "camilo.html" },
-  { usuario: "cristobal", contraseña: "password3", pagina: "cristobal.html" },
-  { usuario: "jose", contraseña: "password4", pagina: "jose.html" },
-  { usuario: "CyJ", contraseña: "password5", pagina: "CyJ.html" },
-  { usuario: "JyV", contraseña: "password6", pagina: "JyV.html" },
+  { usuario: "vicente", contraseña: "tonoto", pagina: "5436.html" },
+  { usuario: "camilo", contraseña: "tonotobici", pagina: "3434.html" },
+  { usuario: "cristobal", contraseña: "sociogay", pagina: "4335.html" },
+  { usuario: "jose", contraseña: "jose", pagina: "jose.html" },
+  { usuario: "CyJ", contraseña: "contraseña1", pagina: "CyJ.html" },
+  { usuario: "JyV", contraseña: "contraseña2", pagina: "JyV.html" },
   { usuario: "VyV", contraseña: "password7", pagina: "VyV.html" },
-  { usuario: "moises", contraseña: "password8", pagina: "moises.html" },
+  { usuario: "moises", contraseña: "wasaaa", pagina: "moises.html" },
   { usuario: "sae", contraseña: "bluey", pagina: "karla.html" },
-  { usuario: "anais", contraseña: "password10", pagina: "anais.html" },
-  { usuario: "marc", contraseña: "password10", pagina: "marc.html" },
-  { usuario: "pedro", contraseña: "password11", pagina: "pedro.html" }
+  { usuario: "anais", contraseña: "mivida", pagina: "anais.html" },
+  { usuario: "marc", contraseña: "gatosmiau", pagina: "4575.html" },
+  { usuario: "pedro", contraseña: "peljume", pagina: "6753.html" }
 ];
 
 document.getElementById('loginForm').addEventListener('submit', function(event) {
